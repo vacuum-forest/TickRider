@@ -1,11 +1,104 @@
---[[
-
+--[[                                                 
+                                       __¬,                                     
+                                      ;|=);                                     
+                                     .||v‡|;                                    
+                                     =’zÒv|c                                    
+                                     -∆B’£dE                                    
+                                     ˙)1—Í„5                                    
+                                      ˙{∞nIv         ._____.                    
+   _‹.  _, _“                       :;:-:;˜ƒ:       j≤◊≤◊≤◊p˙        j€€€≤Â     
+   j€€€€€€€€€                      ˘:;=;:_ø_|-.     ÿ•◊◊◊◊◊@˘        ﬁ€€≤€≤     
+   ﬁ≤”œﬁ€‚ ]€                     _¬a˜|=vÚ!*=++    ˙.=™◊≤◊◊0-        ﬁ€›ˇ€€;    
+   ˚˝  ﬁ€/  ”                     =…W∏|||Æ|++|=.   .=_⁄◊◊◊≤E˘        ≤€E™€€'    
+       ﬁ€`                       ˙I◊◊v≠|==˜=¬-:;   ˘˘ˇˆ◊≤◊◊◊.        ≤€≤€€≤     
+       ﬁ€                         ƒ35vliiv∞mmc˘;   ˘|=;3◊◊≤Nˇ        €€€€≤˝     
+       ﬁ€                         -v||=;=;=+˜=˘; .˙  -˘-ƒ"Ÿ          €€≤€p      
+       ﬁ€r                        ˘n|Ò˜˘.|||==˘:_l..                ™€€‘€€.     
+     j‹€€≤‹,                      ˙{+ˆ|::==:˘  ˙;:ˇˇ˘               j€≤ ≤€›     
+     ≤€€€€€›                       -===;˙˘˙     ˘:˘˘                ﬁ€≤ ‘€€/    
+                                    ˘:::        ˙˘                              
+                                     =+:˙˘˘.                                    
+                                    ˙=|;;++:=;                                  
+                                    .=u¬c|++=;                         ø‹“      
+                                    _v1I(-Òi.˙                         ﬁ€›      
+                                    |ÒIs||||.                          ﬁ€›      
+                                   ˙+|n∞˜++|=                          ﬁ€›      
+                                    =in∞v+|{∏˙                         ≤€E      
+      ™‹‹‹p                         +Òn∞Ò==’∞;                         ≤€f      
+      ƒﬂ€≤”                         =l∞∞|˘={∞;                         €€`      
+       j€›                         ˙+Iov= ;i∞©                        .€€       
+       ]€›                         ˘=lol: :|ns                        j€≤       
+        €›                         ˘+lvi˘ ˘|vn˙                       j€≤       
+        €≤                         ˘+ÒÒ|˙ ˘=ln.                       ‘ﬂ”       
+        €›                         ˘+ii=   ;iv-                                 
+       ™€›                         ˘+i|:   :|v-.                                
+       ‹€€p                        ˘+|=˘   ˘+vÒc                                
+       ﬂﬂﬂ˝                        -=|;    ˙=vIc                     ≤€€€≤∑     
+                                   :++:    ˙=nlc                     €€≤≤€€p    
+                                   ;++-    ˙=nIc                     €€  ﬁ€≤    
+                                  ˙;+=˘     ivÒc                    ]€€   €€r   
+                                  ˘;+;˘    ˙=v|(                    j€≤   ≤€k   
+                                  ˙=+:     ˙ƒIÒ©                    ﬁ€›   ≤€f   
+                                  ¬c=˘     ˙;+⁄c                    ﬁ€›  ™€€'   
+                                  3m‡.     ˙:+—C                    ﬁ€› .‹€≤    
+        ÷““                      ˙]Qk˙      :={c                    ≤€≤≤€€€˝    
+      ™≤€€€                      :ˆY(      ˙:+|;                    €€€€€≤˝     
+      ﬁ€≤ﬂﬂ                      :=+:      ˙:=+;                                
+     _€≤                         :=+:       :++;                                
+     ]€f                         ;=+:..:=:===++;                                
+     ]€f                         ==|-jgø=:;vi+++.                     ‹‹‹‹‹p    
+     ‘€›                        ˙=™%=Q◊Wc==v£)∞¬c.                    ≤€€€€›    
+      €› j€                      ;)1=◊◊W‰|In∆gu{‚.                    €€”””'    
+      ≤€≤€›                      ,⁄øj◊◊#—i—#—WWmp.                   _€€        
+      ‘€€≤'                     .m◊±◊◊Q#Íu˛Ê∞#mQ◊c                   j€€€€€'    
+                                =#Q«◊R#Ô∞mqkmmWQWe˘                  ﬁ€€≤≤≤     
+                                -ÏÏÔÁiÒx∞Ô◊ÍWQQ◊QZø…ø˘               ﬁ€›        
+                                :|IvvllZZÎk∆E#dM◊Àn7◊p               ﬁ€›        
+                                :|lvlllXmmnÿ‡WÀumQÊˇ]◊               ≤€›÷÷⁄     
+                                ™¬xÍ¬ÒI„#WX∆S#◊mQQE jF               ≤€€€€›     
+                                -XmmÍmmZ„„„XdEQ◊m◊f.W`               ﬂﬂﬂﬂﬂ˝     
+                                 )ÏÏÏZWmÊÍ„mWQÌVQ@')f                           
+                                ™—Ø=|{XÔ#∞}Z3Q‡’◊‡˘]c                           
+    ‹‹‹‹ ‹‹‹,                 _⁄}¯˘::|I∞∞„˜Î—◊BiQ◊ -!˙                          
+    ﬂ€€ﬂﬁ€≤€f              ._uT~˘   ˙˘:=v{£ˆ3◊•ƒƒ¸q;:.               j€€€≤Â     
+     ﬁ€©≤≤'              ø⁄|~˘         .∞+—‡˘-ˇ ˘;?ÎQ◊c              ﬁ€€≤€≤     
+     ﬁ€≤€`       ˙_ø⁄q¬yu0~            =o`ƒ~˙    ˇ™n◊◊◊‡             ﬁ€›ˇ€€,    
+     ﬁ€€≤,     .jÀ◊◊◊◊ZÍ~˘             .©         -Á3•◊◊;            ≤€E™€€'    
+     ﬁ€M€≤,   _…◊◊≤◊◊W‚`               Ú`           ˇ{ÿV`            ≤€≤€€≤     
+     ﬁ€fﬁ€‹   ]MM◊◊•ÿ'                _Ø             ˘)ø,            €€€€≤˝     
+    _ﬁ€›-≤€≤÷  ˙ "ˇ˘                 ™◊;               4◊;           €€≤€p      
+   j€€€€‹‘€€€f                       ]@ˇ               -4Qaø        ™€≤˚€€.     
+   ‘ﬂ””ﬂ” )ﬂﬂ'                      .Q(                  ]◊◊◊ø.     j€≤ ≤€›     
+                                   ˙j◊©                  ƒQ◊≤◊Qø    ﬁ€≤ ‘€€/    
+                                   j≤±[                   )◊◊Q◊Qp˘              
+                                  ™◊◊◊©                    -9◊◊≤◊Â              
+                                 .Q◊◊@˘                      ¿◊◊◊f              
+                                 ]±Q◊[                        ˇ-ˇ˙              
+                                .◊◊≤E˘                                          
+                                =◊◊◊'                                           
+                                ˇÿ@`                                            
+                                                                                
 Tick Rider:
+
 A shadowy flight into the dangerous world of a cyborg who does not exist (soaring on god's wings of spoiled pudding.)
 
 Kurinn takes no responsibility and all of the credit for this abomination!
 
+------------------------------------------------------
+
+History:
+
 Version 0.1ß: Feb. 15, 2021
+---------------------------
+	- Initial Tentative Release
+
+Version 0.2ß: Feb. 16, 2021
+---------------------------
+	- External accelerations (weapons recoil, etc) can knock players off a tick (see knockoffThreshold)
+	- Damage can knock riders off a tick (see damageKnockoffThreshold)
+	- Improved tick spawn distribution (Thank you, Treellama!)
+
+------------------------------------------------------
 
 Instructions/Controls:
 Press the action key to mount or dismount from a tick. Aim carefully and possibly get a running start? Try hopping from tick to tick, remembering to press action again to grab on.
@@ -23,34 +116,49 @@ CollectionsUsed = { 3 }		-- For the Ticks!
 -- Happy User-friendly-ish Configurables For Easy Relaxation and Prosperity:
 -------------------------------------------------------------------------------
 
-maxTickMountDistance = 3.5 	-- Max. distances, angle off player.yaw to attempt mounting a nearby tick
-maxTickMountHeight = 2.5
-maxTickMountAngle = 90
-graspReach = 2
-jumpForce = 0.15
-verticalCoefficient = 1.25
+--Tick/Cyborg Conjugal Regulations
+	maxTickMountDistance = 3.5 		-- Maximum xy distance from tick for player mount attempt
+	maxTickMountHeight = 2.5		-- Maximum z distance from tick for player mount attempt
+	maxTickMountAngle = 90			-- Maximum tick bearing off player yaw for mount attempt
+	graspReach = 2					-- Maximum distance from tick for player to mount
+	jumpForce = 0.15				-- Total scalar for boost acceleration
+	verticalCoefficient = 1.25		-- Scale vertical boost acceleration
+	knockoffThreshold = 0.2083		-- Player external acceleration sufficient to cause a dismount. (<0.2083: Rocket, <0.0835: Grenade)
+	
+--Violence of Conservation of Momentum
+	damageKnockoffThreshold = 45	-- Minimum amount of damage required to knock a rider off its tick
 
-tickCallDistance = 20		-- Maximum range of the Tick Whistle®
+--Tick/Cyborg Communications
+	tickCallDistance = 20			-- Maximum range of the Tick Whistle®
 
-exclusionHeight = 1.5		-- This will attempt to discourage tick infiltration into certain polygons with less vertical span
-saddleHeight = 0.375		-- Height of rider.z relative to tick.z
-downDraft = 0.015			-- Vertical velocity (down) increment per tick to avoid head-in-void syndrome
+--Tick Traffic Laws
+	exclusionHeight = 1.5			-- This will attempt to discourage tick infiltration into certain polygons with less vertical span
+	saddleHeight = 0.4				-- Height of rider.z relative to tick.z
+	downDraft = 0.02				-- Vertical velocity (down) increment per tick to avoid head-in-void syndrome
 
-spareTicks = 50				-- Always have at least this many free ticks around. (Warning: too many ticks can cause problems, some of which may be /fun/!)
+--Tick Aggression Limiter
+	allowFriendlyFire = true		-- When false, prevent damage dealt to tick by rider projectiles
 
-kamikazeOdds = 7			-- 1 in n chance that next tick will be a kamikaze
-majorOdds = 5				-- 1 in n chance that next tick that isn't a kamikaze will be a major
+--Tick Spawnin' Parameters
+	spareTicks = 7					-- Always have at least this many free ticks around. (Warning: too many ticks can cause problems, some of which may be /fun/!)
+	kamikazeOdds = 7				-- 1 in n chance that next tick will be a kamikaze
+	majorOdds = 5					-- 1 in n chance that next tick that isn't a kamikaze will be a major
 
-tickWrathDuration = 3600	-- How long in ticks the player will be hated by ticks after beating their tick to death
-tickRageRadius = 500		-- Distance in WU for a tick to attempt revenge
-tickAttackFrequency = 45
+--Tick Social Coefficients
+	tickWrathDuration = 3600		-- How long in ticks the player will be hated by ticks after beating their tick to death
+	tickRageRadius = 30				-- Distance in WU for a tick to attempt revenge against a player
+	tickAttackFrequency = 45		-- Time in ticks between attack commands given to vengeful ticks in player polygon (not too low, please!)
 
-maxTickStability = 1000		-- Time divided probability of tick spontaneous explosion (kamikaze w/ rider)
-maxTickImpatience = 45		-- Time in ticks before new destination for stuck ticks
+--Tick Psychological Settings
+	maxTickStability = 1000			-- Time divided probability of tick spontaneous explosion (kamikaze w/ rider)
+	maxTickImpatience = 45			-- Time in ticks before new destination for stuck ticks
 
-MonsterTypes["minor tick"]._maxLife = 30
-MonsterTypes["major tick"]._maxLife = 60
-MonsterTypes["kamikaze tick"]._maxLife = 90
+--Tick Actuarial Tables
+	MonsterTypes["minor tick"]._maxLife = 30		-- This amount of life is assigned to all ticks of this class
+	MonsterTypes["major tick"]._maxLife = 60
+	MonsterTypes["kamikaze tick"]._maxLife = 90
+
+tickDebug = false
 
 
 
@@ -87,14 +195,41 @@ function Triggers.init()
 		p._tickVengeanceLevel = 0
 		p._tickCallCooldown = 0
 		p._grabTick = false
+		
+		p._external_acceleration = {
+			["x"] = 0,
+			["y"] = 0,
+			["z"] = 0
+		}
+		
+		p._last_external_velocity = {
+			["x"] = p.external_velocity.x,
+			["y"] = p.external_velocity.y,
+			["z"] = p.external_velocity.z
+		}
+		
+		if tickDebug then
+			gimmeTheJUICE(p)
+		end
 	
 	end
 	
 	-- You get a tick, and you get a tick! Everybody gets a tick!
 	for m in Monsters() do
+
 		if m.type.class ~= "tick" then
 			giveTick(m)
 		end
+		
+	end
+
+end
+
+
+function Triggers.projectile_created(projectile)
+
+	if projectile.owner._tick and projectile.owner.monster then
+		updateExternalAcceleration(projectile.owner)
 	end
 
 end
@@ -107,17 +242,30 @@ function Triggers.player_revived(p)
 end
 
 
+function Triggers.player_damaged(victim, aggressor_player, aggressor_monster, damage_type, damage_amount, projectile)
+	
+	if victim._tick then
+	
+		updateExternalAcceleration(victim)
+		
+	end
+	
+end
+
+
 function Triggers.monster_damaged(monster, aggressor_monster, damage_type, damage_amount, projectile)
 	
+	--Ticks Only
 	if monster.type.class == "tick" then
 		
 		if aggressor_monster ~= nil then
 			
 			if monster._rider ~= nil then
 		
-				-- Comment this part out to enable 'friendly' fire while riding.
-				if aggressor_monster.player == monster._rider or aggressor_monster == monster._rider then
-					monster.life = monster.life + damage_amount
+				if not allowFriendlyFire then
+					if aggressor_monster.player == monster._rider or aggressor_monster == monster._rider then
+						monster.life = monster.life + damage_amount
+					end
 				end
 		
 			end
@@ -153,6 +301,8 @@ function Triggers.monster_damaged(monster, aggressor_monster, damage_type, damag
 				
 				if damage_type == "lava" then
 					Players.print(monster._name .. " just got turned into tick stew in the lava!")
+				elseif damage_type == "goo" then
+					Players.print(monster._name .. " has become at one with the goo!")
 				elseif damage_type == "fusion" then
 					Players.print(monster._name .. " was abused to death by " .. tostring(monster._rider.name) .. "! That monster!")
 				elseif damage_type == "explosion" then
@@ -182,6 +332,17 @@ function Triggers.monster_damaged(monster, aggressor_monster, damage_type, damag
 			end
 			
 			monster._deathNoted = true
+			
+		end
+		
+	else
+		
+		if monster._tick then
+			monster._cumulativeTickDamage = monster._cumulativeTickDamage + damage_amount
+			
+			if monster._cumulativeTickDamage >= damageKnockoffThreshold then
+				dismountTick(monster)
+			end
 			
 		end
 		
@@ -219,6 +380,7 @@ function Triggers.idle()
 
 	angryTicks = false
 	ticksAlive = 0
+	ticksAvailable = 0
 	monstersAlive = 0
 	
 	timersIdleUpkeep()
@@ -232,6 +394,10 @@ function Triggers.idle()
 			if m.type.class == "tick" then
 
 				ticksAlive = ticksAlive + 1
+				
+				if not m._rider then
+					ticksAvailable = ticksAvailable + 1
+				end
 				
 				updateTick(m)
 				
@@ -259,8 +425,20 @@ function Triggers.idle()
 	end
 	
 	-- Maintain a steady population of available ticks
-	if ticksAlive - monstersAlive < # Players + spareTicks then
+	if ticksAvailable < # Players + spareTicks then
 		summonTick()
+	end
+	
+end
+
+
+function Triggers.postidle()
+
+	for m in Monsters() do
+		if m.type.class == "tick" and m._rider then
+			m._rider:position(m.x, m.y, m.z + saddleHeight, m.polygon)
+		end
+		m._cumulativeTickDamage = 0
 	end
 	
 end
@@ -296,15 +474,15 @@ function createTick(x, y, z, polygon, safe)
 	end
 	
 	tick._maxLife = tick.life
-	tick._impatienceLevel = 0
 	tick._lastPosition = {}
 	tick._lastPosition.x = tick.x
 	tick._lastPosition.y = tick.y
 	tick._lastDestination = tick.polygon
 	tick._nextDestination = tick.polygon
 	tick._stabilityLevel = maxTickStability
+	tick._impatienceLevel = 0
 	tick._attackCooldown = 0
-	
+
 	return tick
 	
 end
@@ -313,18 +491,21 @@ end
 function summonTick()
 	
 	local polygon = pickRandomSafePolygon()
-	
-	-- randomize start heights here but check if there's a rider?
-	
-	local z
+	local x
+	local y
+	x, y, polygon = uniform.xy_in_polygon(polygon)
+
+	local floor
 	if polygon.media then
-		z = polygon.media.height + 0.5
+		floor = math.max(polygon.floor.z, polygon.media.height) + 0.25
 	else
-		z = polygon.floor.z + 0.5
+		floor = polygon.floor.z + 0.25
 	end
+	local span = polygon.ceiling.z - floor - 0.25
+	local z = Game.random(math.floor(span * 10000) + 1) * (span / 100000)
 	
-	boof(polygon.x, polygon.y, z, polygon)
-	local tick = createTick(polygon.x, polygon.y, z, polygon)
+	boof(polygon.x, polygon.y, z + floor, polygon)
+	local tick = createTick(x, y, z + floor, polygon)
 	
 end
 
@@ -420,18 +601,11 @@ function updateTick(tick)
 		
 		local rider = tick._rider
 		
-		-- Keep rider positioned above tick
-		rider:position(tick.x, tick.y, tick.z + saddleHeight, tick.polygon)
-		
-		-- Not sure if this matters, but what the hell
-		if rider.monster == nil then
-			rider.vertical_velocity = tick.vertical_velocity
-		end
-		
 		-- Avoid inserting rider head into ceiling
 		local riderHeight = rider.monster == nil and tick._rider.type.height or tick._rider.monster.type.height
 		if rider.z + riderHeight >= tick.polygon.ceiling.z - 0.1 then
-			tick.vertical_velocity = tick.vertical_velocity - downDraft
+			--tick.vertical_velocity = tick.vertical_velocity - downDraft
+			tick.vertical_velocity = math.min(0 - tick.vertical_velocity, 0)
 		end	
 		
 		-- Keep ticks moving to new and exciting locations!
@@ -440,6 +614,9 @@ function updateTick(tick)
 			moveTick(tick)
 				
 		end
+		
+		-- Keep rider positioned above tick
+		rider:position(tick.x, tick.y, tick.z + saddleHeight, tick.polygon)
 		
 		-- Some might say they're... unstable?
 		if tick.type == "kamikaze tick" then
@@ -468,7 +645,7 @@ function updateTick(tick)
 		if Game.ticks % 15 == 0 then
 		
 			tick._targetTickAbuser = nil
-			local closestJerkfaceDistance = 666
+			local closestJerkfaceDistance = tickRageRadius
 		
 			for p in Players() do
 			
@@ -476,7 +653,7 @@ function updateTick(tick)
 				
 					local buttheadRange = getDistance3(tick.x, tick.y, tick.z, p)
 				
-					if buttheadRange <= tickRageRadius and buttheadRange < closestJerkfaceDistance then
+					if buttheadRange <= closestJerkfaceDistance then
 						tick._targetTickAbuser = p
 						closestJerkfaceDistance = buttheadRange
 					end
@@ -638,6 +815,13 @@ function updatePlayer(player)
 		
 	end
 	
+	if tickDebug then
+		player.life = 3000
+		player.oxygen = 3000
+	end
+	
+	updateExternalAcceleration(player)
+	
 end
 
 
@@ -751,6 +935,18 @@ function updateOverlays(player)
 			player.overlays[1].color = "cyan"
 		end
 	
+	else
+		
+		if tickDebug then
+			player.overlays[1].icon = nil
+			player.overlays[0].text = string.format("%5.3f", player.external_velocity.x)
+			player.overlays[1].text = string.format("%5.3f", player.external_velocity.y)
+			player.overlays[2].text = string.format("%5.3f", player.external_velocity.z)
+			player.overlays[3].text = string.format("%5.3f", player._external_acceleration.x)
+			player.overlays[4].text = string.format("%5.3f", player._external_acceleration.y)
+			player.overlays[5].text = string.format("%5.3f", player._external_acceleration.z)
+		end
+		
 	end
 
 end
@@ -769,7 +965,11 @@ function callTick(player)
 					else
 						m:attack(player.monster)
 					end
-			
+					
+					if tickDebug then
+						Players.print(m._name .. " responding to " .. player.name .. "'s tick call!")
+					end
+					
 				end
 			end
 		end
@@ -777,6 +977,33 @@ function callTick(player)
 		player.polygon:play_sound(player.x, player.y, player.z, "tick chatter", 3)
 
 		player._tickCallCooldown = 60
+		
+	end
+	
+end
+
+
+function updateExternalAcceleration(player)
+	
+	player._external_acceleration = {
+		["x"] = (player.external_velocity.x - player._last_external_velocity.x) / 30,
+		["y"] = (player.external_velocity.y - player._last_external_velocity.y) / 30,
+		["z"] = (player.external_velocity.z - player._last_external_velocity.z) / 30
+	}
+	
+	player._last_external_velocity = {
+		["x"] = player.external_velocity.x,
+		["y"] = player.external_velocity.y,
+		["z"] = player.external_velocity.z
+	}
+	
+	player._scalar_acceleration = math.sqrt(player._external_acceleration.x^2 + player._external_acceleration.y^2 + player._external_acceleration.z^2)
+	
+	if player._tick then
+		
+		if player._scalar_acceleration > knockoffThreshold then
+			dismountTick(player)
+		end
 		
 	end
 	
@@ -926,6 +1153,50 @@ function angleDifference(a, b)
 end
 
 
+function radToCart(angle, radius)
+	
+	if (radius == nil) or (angle == nil) then
+		return false
+	end
+	local x = math.cos(math.rad(angle)) * radius
+	local y = math.sin(math.rad(angle)) * radius
+	return x, y
+	
+end
+
+
+function cartToRad(x, y)
+
+	local scalar = math.sqrt(x * x + y * y)
+	
+	local nx = 0
+	local ny = 0
+	
+	if scalar ~= 0 then
+		nx = x / scalar
+		ny = y / scalar
+	else
+		nx = 0
+		ny = 0
+	end	
+	
+	local angle = math.deg(math.atan2(ny, nx))
+	if angle < 0 then angle = angle + 360 end
+	
+	return angle, scalar
+	
+end
+
+
+function offsetRadial(x, y, angle, radius)
+
+	local xr, yr = radToCart(angle, radius)
+	
+	return x + xr, y + yr
+	
+end
+
+
 function polygonIsTickSafe(polygon)
 	
 	if polygon.media then
@@ -1053,7 +1324,7 @@ end
 function showTicks()
 	for m in Monsters() do
 		if m._name then
-			Players[0]:print(m._name)
+			Players[0]:print(tostring(m._name) .. " " .. tostring(m.type))
 		end
 	end
 end
@@ -1065,6 +1336,28 @@ function killTicks()
 			m:damage(1000)
 		end
 	end
+end
+
+
+function gimmeTheJUICE(player)
+
+    player.items["pistol"] = 7
+    player.items["pistol ammo"] = 7
+    player.items["fusion pistol"] = 7
+    player.items["fusion pistol ammo"] = 7
+    player.items["assault rifle"] = 7
+    player.items["assault rifle ammo"] = 7
+    player.items["assault rifle grenades"] = 7
+    player.items["missile launcher"] = 7
+    player.items["missile launcher ammo"] = 7
+    player.items["alien weapon"] = 7
+    player.items["flamethrower"] = 7
+    player.items["flamethrower ammo"] = 7
+    player.items["shotgun"] = 7
+    player.items["shotgun ammo"] = 7
+    player.items["smg"] = 7
+    player.items["smg ammo"] = 7
+	
 end
 
 
@@ -1110,3 +1403,114 @@ t7d574a
 ,..............,
 ,,,,,,,,,,,,,,,,
 ]]
+
+
+-- Uniform.lua by Gregory Smith
+-- Random points in Aleph One's game world
+--
+-- you may freely redistribute this file and/or include it in your scripts
+--
+-- to find a random x,y,polygon or x,y,z,polygon in a list of polygons:
+-- uniform.build_triangle_list(polygon_list)
+-- uniform.xy_in_triangle_list(triangle_list)
+-- uniform.xyz_in_triangle_list(triangle_list)
+--
+-- inefficient convenience functions:
+-- uniform.xy_in_polygon(polygon)
+-- uniform.xyz_in_polygon(polygon)
+
+uniform = {}
+
+function uniform.xy_in_polygon(polygon)
+   return uniform.xy_in_triangle_list(uniform.build_triangle_list({polygon}))
+end
+
+function uniform.xyz_in_polygon(polygon)
+   return uniform.xyz_in_triangle_list(uniform.build_triangle_list({polygon}))
+end
+
+function uniform.build_triangle_list(polygon_list)
+   local triangles = {}
+   local total_area = 0
+   for _, p in pairs(polygon_list) do
+      local polygon_triangles = uniform.split_polygon_into_triangles(p)
+      for _, t in pairs(polygon_triangles) do
+	 table.insert(triangles, t)
+	 total_area = total_area + t.area
+      end
+   end
+
+   local area = 0
+   for _, t in pairs(triangles) do
+      area = area + t.area / total_area
+      t.weight = area
+   end
+
+   return triangles
+end
+
+function uniform.xy_in_triangle_list(triangles)
+   local t = uniform.search(triangles, uniform.random())
+   local x, y = uniform.xy_in_triangle(t)
+   return x, y, t.polygon
+end
+
+function uniform.xyz_in_triangle_list(triangles)
+   local x, y, p = uniform.xy_in_triangle_list(triangles)
+   local z = p.floor.height + uniform.random() * (p.ceiling.height - p.floor.height)
+   return x, y, z, p
+end
+
+function uniform.split_polygon_into_triangles(p)
+   local triangles = {}
+   local endpoints = p.endpoints
+   local first = endpoints[0]
+   for i = 1, # p.endpoints - 2 do
+      local a = first
+      local b = endpoints[i]
+      local c = endpoints[i + 1]
+      local triangle = {a, b, c}
+      triangle.area = math.abs((a.x * b.y - b.x * a.y) + (b.x * c.y - c.x * b.y) + (c.x * a.y - a.x * c.y)) / 2
+      triangle.polygon = p
+      
+      table.insert(triangles, triangle)
+   end
+   return triangles
+end
+
+function uniform.random()
+   return Game.random() / (2 ^ 32)
+end
+
+function uniform.xy_in_triangle(t)
+   local a = uniform.random()
+   local b = uniform.random()
+   if a + b > 1 then
+      a = 1 - a
+      b = 1 - b
+   end
+   local c = 1 - a - b
+
+   local ta = t[1]
+   local tb = t[2]
+   local tc = t[3]
+
+   local x = ta.x * a + tb.x * b + tc.x * c
+   local y = ta.y * a + tb.y * b + tc.y * c
+
+   return x, y
+end
+
+function uniform.search(triangles, weight)
+   local function search(low, high)
+      local mid = math.floor((low + high) / 2)
+      if low == high then
+	 return high
+      elseif triangles[mid].weight > weight then
+	 return search(low, mid)
+      else
+	 return search(mid + 1, high)
+      end
+   end
+   return triangles[search(1, # triangles)]
+end
